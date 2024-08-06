@@ -1,0 +1,17 @@
+div h5{
+    color: maroon;
+}
+span b{
+    color: tomato;
+}
+div p{
+    color: blue;
+}
+div h6{
+    color: palevioletred;
+}
+div table{
+
+    border-width: 20px;
+   background-color: lightcyan;
+}
